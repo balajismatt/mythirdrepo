@@ -1,3 +1,4 @@
+# hello this is my automation project
 import pyautogui as pag
 import random
 import time
